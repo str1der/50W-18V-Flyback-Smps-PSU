@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Common_mode")(type "KiCad")(uri "${KIPRJMOD}/Library/Common_mode.pretty")(options "")(descr ""))
+  (lib (name "Transformer_EE")(type "KiCad")(uri "${KIPRJMOD}/Library/Transformer_EE.pretty")(options "")(descr ""))
+  (lib (name "Synacle")(type "KiCad")(uri "${KIPRJMOD}/Library/synacle.pretty")(options "")(descr ""))
+  (lib (name "silkscreen")(type "KiCad")(uri "${KIPRJMOD}/Library/silkscreen.pretty")(options "")(descr ""))
+)
