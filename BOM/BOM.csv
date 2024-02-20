@@ -7,7 +7,7 @@
 "C6, C13","1uF 25v","Capacitor_SMD:C_0805_2012Metric","~","","","","","","2"
 "C8","2.2nF 50V","Capacitor_SMD:C_1206_3216Metric","~","","","","","","1"
 "C9","220pF 50V","Capacitor_SMD:C_1206_3216Metric","~","","","","","","1"
-"C12","450uF 25V","Capacitor_THT:CP_Radial_D8.0mm_P5.00mm","~","","","","","","1"
+"C12","470uF 25V","Capacitor_THT:CP_Radial_D8.0mm_P5.00mm","~","","","","","","1"
 "D1-D4","S2G","Diode_SMD:D_SMB","https://www.onsemi.com/pub/Collateral/US2AA-D.PDF","D","","","","1=K 2=A","4"
 "D5","P6KE200A","Diode_THT:D_DO-15_P3.81mm_Vertical_AnodeUp","~","","","","","","1"
 "D6","UF4007","Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp","~","D","","","","1=K 2=A","1"
